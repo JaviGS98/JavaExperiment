@@ -39,6 +39,13 @@ public class Principal {
 		//Obtener hashcode
 		System.out.println(cliente.hashCode());
 		
+		
+		//Aportación de Óscar
+		Cliente oscar = new Cliente();
+		cliente.setDni("39469204P");
+		cliente.setEdad(19);
+		cliente.setNombre("Óscar Cruz Díaz");
+		
 	}
 
 }
