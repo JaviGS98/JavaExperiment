@@ -40,5 +40,8 @@ public class Principal {
 		System.out.println(cliente.hashCode());
 		
 	}
-
+//Aportacion de Alejandro
+	Cliente cliente = new Cliente2();
+	cliente.setNombre("Alejandro Roman");
+	
 }
