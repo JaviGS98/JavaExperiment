@@ -39,6 +39,13 @@ public class Principal {
 		//Obtener hashcode
 		System.out.println(cliente.hashCode());
 		
+		//aportacion de pablo :D
+		cliente clientePablo = new cliente();
+		clientePablo.setDni("12345678Q");
+		clientePablo.setEdad(23);
+		clientePablo.setNombre("Pablo Diz Sestelo");
+		
+		
 	}
 
 }
