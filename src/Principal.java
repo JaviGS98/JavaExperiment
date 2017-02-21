@@ -39,6 +39,13 @@ public class Principal {
 		//Obtener hashcode
 		System.out.println(cliente.hashCode());
 		
+		//Aportacioón Javier
+		CuentaBancaria cuenta9 = new CuentaBancaria();
+	        cuenta.setIban("ES12312233")
+		cuenta.setDNI("39455432E")
+		cuenta.setSaldo(2500)
+				
+		
 	}
 
 }
