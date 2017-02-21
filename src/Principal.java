@@ -39,6 +39,10 @@ public class Principal {
 		//Obtener hashcode
 		System.out.println(cliente.hashCode());
 		
+		
 	}
-
+//aportacion martin
+	cliente cliente=new cliente();
+	cliente setnom("martin posada");
+	
 }
