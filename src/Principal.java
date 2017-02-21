@@ -39,6 +39,11 @@ public class Principal {
 		//Obtener hashcode
 		System.out.println(cliente.hashCode());
 		
+		// cliente creado por Victor
+		Cliente clienteVic = new Cliente();
+		cliente.setDni("12344678Q");
+		cliente.setEdad(33);
+		cliente.setNombre("Leroy Jenkins");
 	}
 
 }
