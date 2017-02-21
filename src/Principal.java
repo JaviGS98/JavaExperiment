@@ -39,6 +39,8 @@ public class Principal {
 		//Obtener hashcode
 		System.out.println(cliente.hashCode());
 		
+		//Aportacion de Devilcer
+		Cliete cliente2 = new Cliente()
 	}
 
 }
