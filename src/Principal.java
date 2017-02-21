@@ -28,6 +28,7 @@ public class Principal {
 		
 		//Crear clientes
 		
+		
 		Cliente cliente = new Cliente();
 		cliente.setDni("12345678Q");
 		cliente.setEdad(23);
@@ -38,6 +39,14 @@ public class Principal {
 		
 		//Obtener hashcode
 		System.out.println(cliente.hashCode());
+		
+		//Aportación de Mateo :)
+		Cilente clienteMateo = new Cliente();
+		clienteMateo.setDni("15345678Q");
+		clienteMateo.setEdad(24);
+		clienteMateo.setNombre("Mateo Perez Senin");
+		
+		
 		
 	}
 
